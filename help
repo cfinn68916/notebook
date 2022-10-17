@@ -1,0 +1,9 @@
+notebook [options] <notebook name>
+
+    -h, --help
+	
+	open this help menu
+
+    -w
+	
+	write to a notebook
