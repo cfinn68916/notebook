@@ -3,7 +3,7 @@
 
 to install, run 
 ```bash
-wget -O {link} | sudo sh
+wget -O 'https://github.com/cfinn68916/notebook/releases/download/v1/install.sh' | sudo sh
 
 
 ```
