@@ -12,6 +12,12 @@ nano /home/colin/.notes/$2
 elif [ $1 == '--help' ]
 then
 echo 'Run "notebook help" to open the help menu'
+elif [ $1 == '--list' ]
+then
+ls ~/.notes
+elif [ $1 == '--l' ]
+then
+ls ~/.notes
 else
 less ~/.notes/$1
 fi

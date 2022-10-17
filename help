@@ -7,3 +7,7 @@ notebook [options] <notebook name>
     -w
 	
 	write to a notebook
+
+    -l, --list
+	
+	list notes
