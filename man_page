@@ -1,0 +1,18 @@
+NAME
+	notebook - read/write stored notes
+SYNOPSIS
+	notebook [options] <notebook name>
+
+DESCRIPTION
+	Read and write stored notes
+	-h, --help
+	
+		open the help menu
+
+	-w <notebook name>
+	
+		write to a notebook
+
+	-l, --list
+	
+		list notes
